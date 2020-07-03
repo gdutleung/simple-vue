@@ -1,0 +1,23 @@
+{
+  "name": "simple-vue",
+  "version": "1.0.0",
+  "description": "A minimalist vue framework implementation.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd src && anywhere",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdutleung/simple-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdutleung/simple-vue/issues"
+  },
+  "homepage": "https://github.com/gdutleung/simple-vue#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
